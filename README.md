@@ -22,6 +22,12 @@ Mid-level backend focused developer based in Kent.
 
 ---
 
+### Certifications
+
+- :cloud: AWS Cloud Practitioner
+
+---
+
 ### Languages and Contribution
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Jack-Dane&theme=dark&background=000000)](https://git.io/streak-stats)
